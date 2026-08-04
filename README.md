@@ -20,7 +20,7 @@ I focus on creating web applications that not only provide precise experiences b
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,github,notion)
+![My Skills](https://skillicons.dev/icons?i=vscode,figma,blender,androidstudio,postman,github,notion)
 <!--
 
 ### Others
