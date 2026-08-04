@@ -4,10 +4,10 @@ I'm Bagas Mahendra F, a student majoring in Information Systems at the Universit
  
 I focus on creating web applications that not only provide precise experiences but are also user-friendly. My specialization includes JavaScript and TypeScript, along with frameworks such as React, Vite, and Next.js. As a quick learner and adaptive thinker, I thrive in a dynamic environment where innovation is a driving force. My collaborative nature allows me to seamlessly integrate with teams, contributing not only to my technical skills but also embodying a humble attitude that values input from every team member.
 
-[![Mail Badge](https://img.shields.io/badge/-satriaabaharii@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:bagasmahendraf09@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-@satriabaharii__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/bagasmhndrf) 
-[![Linkedin Badge](https://img.shields.io/badge/-satriabahari-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagas-mahendra-firmansyah/) 
-[![Tiktok](https://img.shields.io/badge/-satriaabaharii-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pisepenmoponn/)
+[![Mail Badge](https://img.shields.io/badge/-bagasmahendraf09i@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:bagasmahendraf09@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-@bagasmhndrf-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/bagasmhndrf) 
+[![Linkedin Badge](https://img.shields.io/badge/-Bagasmhndrf-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagas-mahendra-firmansyah/) 
+[![Tiktok](https://img.shields.io/badge/-MoFoneee-171717?style=flat&labelColor=171717&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pisepenmoponn/)
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
