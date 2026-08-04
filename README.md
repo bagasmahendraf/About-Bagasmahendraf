@@ -1,4 +1,4 @@
-<img src="" /> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:260000,100:b30000&height=150&text=Hi,%20I'm%20Bagas%20Mahendra&fontSize=50&fontColor=fdd935&fontAlignY=45&animation=twinkling&desc=A%20Web%20and%20UI/UX%20%20Developer&descSize=30&descAlignY=85&section=header" />
  
 I'm Bagas Mahendra F, a student majoring in Information Systems at the University of 17 Agustus 1945 Surabaya. I have a strong interest in frontend development. With a solid foundation in JavaScript and TypeScript, as well as a comprehensive understanding of various frontend libraries and frameworks, I have navigated the ever-evolving landscape of web development with enthusiasm and dedication. 
  
