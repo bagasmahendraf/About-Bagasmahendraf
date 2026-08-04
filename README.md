@@ -11,6 +11,8 @@ I focus on creating web applications that not only provide precise experiences b
 [![](https://komarev.com/ghpvc/?username=satriabahari&color=blue&label=Profile%20Views)](https://github.com/satriabahari/satriabahari)
 [![](https://img.shields.io/github/followers/satriabahari?label=GitHub%20Followers)](https://github.com/satriabahari)
 
+<img src="https://raw.githubusercontent.com/DragonCode098/DragonCode098/main/Background/profil-video.gif" alt="Profil">
+
 ### Core Tech Stacks
 ![My Skills](https://skillicons.dev/icons?i=ts,react,next,tailwind,kotlin)
 
